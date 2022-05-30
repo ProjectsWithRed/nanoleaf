@@ -34,7 +34,7 @@ Please note, in the video (time: `13:37`) I go through and show the exact steps 
 
 - [ESP32](https://www.amazon.co.uk/dp/B071P98VTG?ref_=cm_sw_r_cp_ud_dp_HRCFAE60FTX5CNG9CH61), for the micro-controller.
 - [12V 8A](https://www.amazon.co.uk/dp/B0927KBGCP?ref_=cm_sw_r_cp_ud_dp_XS02N6BZ2QZ6SRK3ASNE), power supply.
-- [LM2596](https://www.amazon.co.uk/dp/B077VW4BTY?ref_=cm_sw_r_cp_ud_dp_3PQZG5P3P4X3W8JCMQ5S) or any step down converter, to convert 12V to 5V for the ESP32.
+- [LM2596](https://www.amazon.co.uk/dp/B077VW4BTY?ref_=cm_sw_r_cp_ud_dp_3PQZG5P3P4X3W8JCMQ5S) or any step down converter, to convert 12V to 5V for the ESP32. **Remember to use the screw on this component to adjust its output voltage to 5V using a voltmeter.**
 - [LED strip](https://www.amazon.co.uk/dp/B01CNL6K52?ref_=cm_sw_r_cp_ud_dp_SHH2S3GJH9TY1MC4NM73), the specific one used in this project is the `WS2811` LED strip.
 - 1000μF capacitor, across the LED strip.
 - [A4 3mm matte opal acrylic sheets](https://plasticonline.co.uk/opal-frost-cast-acrylic-sheet.html) (x7), used to get the glowing effect. I recommend getting extra A4 sheets just in case something bad happens...
@@ -43,6 +43,7 @@ Please note, in the video (time: `13:37`) I go through and show the exact steps 
 - M2 bolts, to attach the lid to the main housing part. They can be from 8mm to 12mm long.
 - [20 AWG flexible silicon wires](https://www.amazon.co.uk/dp/B07G715HYY?ref_=cm_sw_r_cp_ud_dp_060MXTRE7K0QFSFT6WC1), for connecting segments together.
 - [Dupont crimping tool](https://www.amazon.co.uk/dp/B07QNPZDTW?ref_=cm_sw_r_cp_ud_dp_D43ZQHCR3MZQAZ5CW36F), the tool used to make the dupont connectors.
+
 
 # 3D models
 
