@@ -13,7 +13,10 @@ You simply just need to go to [here](https://install.wled.me/), press install an
 
 # Code for the 4-digit display
 
-Please note, in the video (time: `13:37`) I go through and show the exact steps on how to upload and use the code. Below is just a short text version.
+Keep in mind, that you don't need to do any of the steps below if you are just creating a NanoLeaf shape. For the code for any NanoLeaf shape, see [Code for any custom NanoLeaf shape](#Code-for-any-custom-NanoLeaf-shape).
+
+Please note, in the video (time: `13:37`) I go through and show the exact steps on how to upload and use the code for the 4-digit display. Below is just a short text version.
+
 
 1. Install [VSCode](https://code.visualstudio.com/).
 2. In VSCode, install the `PlatformIO IDE` extension.
