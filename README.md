@@ -29,3 +29,19 @@ Please note, in the video (time: `13:37`) I go through and show the exact steps 
 # 3D models
 
 Please refer to the `/3d_printing` directory.
+
+
+# Wiring
+
+## For any NanoLeaf shape
+![nanoleaf shape wiring diagram](/readme_imgs/shape_wiring_dia.png)
+![nanoleaf shape wiring image](/readme_imgs/shape_wiring_img.JPG)
+
+## For the 4-digit display
+
+![4-digit display wiring diagram](/readme_imgs/display_wiring_dia.png)
+![4-digit display wiring image](/readme_imgs/display_wiring_img.JPG)
+
+### 4-digit display segments wiring
+![4-digit display segments wiring diagram](/readme_imgs/display_segments_wiring_dia.png)
+![4-digit display segments wiring image](/readme_imgs/display_segments_wiring_img.JPG)
