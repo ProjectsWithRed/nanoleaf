@@ -24,3 +24,8 @@ Please note, in the video (time: `13:37`) I go through and show the exact steps 
     - ![LED strip sections](/readme_imgs/led_strip_sections.png)
 6. Now you can upload the code.
 7. For the setup you need to do on the phone and how to use the usermod settings to control the 4-digit display, refer to the video (time: `14:42`).
+
+
+# 3D models
+
+Please refer to the `/3d_printing` directory.
