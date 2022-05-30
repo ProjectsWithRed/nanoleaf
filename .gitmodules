@@ -1,0 +1,3 @@
+[submodule "WLED"]
+	path = WLED
+	url = https://github.com/ProjectsWithRed/WLED.git
