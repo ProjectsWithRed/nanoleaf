@@ -38,6 +38,7 @@ Please note, in the video (time: `13:37`) I go through and show the exact steps 
 - [LED strip](https://www.amazon.co.uk/dp/B01CNL6K52?ref_=cm_sw_r_cp_ud_dp_SHH2S3GJH9TY1MC4NM73), the specific one used in this project is the `WS2811` LED strip.
 - 1000μF capacitor, across the LED strip.
 - [A4 3mm matte opal acrylic sheets](https://plasticonline.co.uk/opal-frost-cast-acrylic-sheet.html) (x7), used to get the glowing effect. I recommend getting extra A4 sheets just in case something bad happens...
+    - Refer to [Acrylic sheet shape](#Acrylic-sheet-shape) to see what shape you need to cut from the acrylic sheets.
 - [DHT11](https://www.amazon.co.uk/dp/B06Y99X3NS?ref_=cm_sw_r_cp_ud_dp_4AR4MJQ16QP2X09JY0WM)(optional), used to get the temperature and humidity when using the 4-digit display.
 - [Power switch](https://www.amazon.co.uk/dp/B01N2U8PK0?ref_=cm_sw_r_cp_ud_dp_JB40B1WS9YM9YZVZ7MQK), to turn on and off.
 - M2 bolts, to attach the lid to the main housing part. They can be from 8mm to 12mm long.
@@ -48,6 +49,11 @@ Please note, in the video (time: `13:37`) I go through and show the exact steps 
 # 3D models
 
 Please refer to the `/3d_printing` directory.
+
+
+# Acrylic sheet shape
+
+To cut the acrylic to the correct shape, print this [A4 sheet](acrylic_sheet_reference.pdf). To ensure you have printed it to the correct scale, measure the top size of the shape, which should be `12 cm`.
 
 
 # Wiring
