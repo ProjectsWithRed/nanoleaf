@@ -1,6 +1,6 @@
 # NanoLeaf
 
-Modular NanoLeaf lights, create any custom shapes, with ability to transform to a 4-digit display made up of 7-segment digits.
+A modular NanoLeaf lights that not only allows you to make any NanoLeaf shape using as many or as little segments as you want, but you can also use the same identical modular segments to create a 4-digit display, which can be used to display the time, temperature, humidity, or pretty much anything you want!
 
 There is a [video](https://youtu.be/RalzwaIh_J4) associated with this repository/project, I highly recommend watching it before using this repo.
 
