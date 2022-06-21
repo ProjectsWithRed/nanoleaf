@@ -2,6 +2,14 @@
 
 All the 3D printed parts used in this project.
 
+- A segment is made up of two 3D printed parts, the housing and the lid.
+- I recommend printing the lid in a white filament to reflect as much light as possible, however, black can also be used, as the difference is very minimal.
+
+# 3D printing settings
+
+- For the housing and lid parts, refer to `housing_lid_settings.curaprofile`.
+- For the connector, refer to `connector_settings.curaprofile`.
+
 
 # Images
 
