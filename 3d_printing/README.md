@@ -4,6 +4,7 @@ All the 3D printed parts used in this project.
 
 - A segment is made up of two 3D printed parts, the housing and the lid.
 - I recommend printing the lid in a white filament to reflect as much light as possible, however, black can also be used, as the difference is very minimal.
+- Each segment requires roughly 75 grams of filament, 43 grams for the housing and 32 grams for the lid.
 
 # 3D printing settings
 
